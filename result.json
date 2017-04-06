@@ -1,0 +1,11 @@
+{
+  "root.design.options.0.val": 1,
+  "root.design.options.1.val": 2,
+  "root.design.options.2.val": 3,
+
+  "root.comments.0": 0,
+  "root.comments.1": 1,
+  "root.comments.2": 2,
+  "root.data.inner.0.array.0.x": 35,
+  "root.data.inner.1.array.y": 15
+}
